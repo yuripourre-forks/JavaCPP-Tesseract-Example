@@ -7,7 +7,7 @@ BufferedImage used to create byte array. Then PIX object created from byte array
 Example uses png. 
 
 To run example:
-`mvn package exec:java -Dexec.mainClass=BasicExample`
+`mvn package exec:java -Dexec.mainClass=BufferedImageExample`
 
 ### Known issue
 Error: Illegal min or max specification!
